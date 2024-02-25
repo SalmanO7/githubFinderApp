@@ -1,0 +1,29 @@
+.user {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    margin: 1rem;
+    border: 1px solid #79666633;
+}
+.user img{
+    width: 100px;
+    border-radius: 50%;
+    margin-bottom: 0.8rem;
+}
+.user h2{
+    text-transform:capitalize;
+    margin-bottom: 0.8rem;
+}
+.user a{
+    padding: 0.2rem 0.4rem;
+    background-color: #333;
+    color: #eee;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border-radius: 0.3rem;
+    box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.2);
+    
+}
