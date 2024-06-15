@@ -1,8 +1,12 @@
 GitHub Finder
+
 GitHub Finder is a React-based web application that allows users to search for GitHub profiles and view detailed information about repositories and user activities. This project utilizes the GitHub API to fetch user data and display it in a user-friendly manner.
 
+
 Features
+
 Search GitHub Profiles: Enter a GitHub username to find user profiles.
+
 Profile Details: View detailed information about users, including their repositories, followers, following, and more.
 Responsive Design: The app is fully responsive and works on all device sizes.
 Error Handling: Graceful handling of errors and invalid usernames.
