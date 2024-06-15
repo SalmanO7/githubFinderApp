@@ -27,7 +27,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/your-username/github-finder.git
+git clone https://github.com/SAlmanO7/github-finder.git
 cd github-finder
 Install dependencies:
 
@@ -38,7 +38,6 @@ Create a .env file in the root directory and add your GitHub personal access tok
 
 env
 Copy code
-REACT_APP_GITHUB_TOKEN=your_github_personal_access_token
 Start the development server:
 
 sh
